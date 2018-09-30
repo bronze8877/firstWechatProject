@@ -1,0 +1,26 @@
+{
+  "name": "firstwechatproject",
+  "version": "1.0.0",
+  "description": " a small project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bronze8877/firstWechatProject.git"
+  },
+  "keywords": [
+    "wechat",
+    "nodejs"
+  ],
+  "author": "guguangbing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bronze8877/firstWechatProject/issues"
+  },
+  "homepage": "https://github.com/bronze8877/firstWechatProject#readme",
+  "dependencies": {
+    "koa": "^2.5.3"
+  }
+}
