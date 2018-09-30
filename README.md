@@ -1,0 +1,2 @@
+# firstWechatProject
+自己手动实现一个基于nodejs的微信公众号开发
